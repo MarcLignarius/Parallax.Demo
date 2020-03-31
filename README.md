@@ -39,6 +39,8 @@ Alternatively, visit https://marclignarius.github.io/Parallax.Demo/ to see the l
 
 ## Demo
 
+| Desktop | Tablet | Mobile |
+|:-------------:|:-------------:|:-------------:|
 | ![Desktop demo](demo/desktop.gif) | ![Tablet demo](demo/tablet.gif) | ![Mobile demo](demo/mobile.gif)
 
 ## Known Bugs
