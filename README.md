@@ -39,9 +39,7 @@ Alternatively, visit https://marclignarius.github.io/Parallax.Demo/ to see the l
 
 ## Demo
 
-![Desktop demo](demo/desktop.gif)
-![Tablet demo](demo/tablet.gif)
-![Mobile demo](demo/mobile.gif)
+| ![Desktop demo](demo/desktop.gif) | ![Tablet demo](demo/tablet.gif) | ![Mobile demo](demo/mobile.gif)
 
 ## Known Bugs
 There are no known bugs as of last release.
