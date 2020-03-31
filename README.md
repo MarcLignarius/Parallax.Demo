@@ -19,7 +19,7 @@
 
 ## Description
 
-Web page which uses SASS variables, nesting and mixins to style a simple header. Built following along Traversy Media's "Sass Crash Course": https://www.youtube.com/watch?v=nu5mdN2JIwM
+This is a simple landing page that uses the parallax scrolling effect with the Rellax.js library. Built following along Traversy Media's "Parallax Landing Page - Rellax.js": https://www.youtube.com/watch?v=aAxt0Z7IXIo
 
 ## Technologies Used
 
