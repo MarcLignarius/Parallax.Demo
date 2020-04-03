@@ -32,7 +32,7 @@ This is a simple landing page that uses the parallax scrolling effect with the R
 * Launch your terminal.
 * `cd desktop` Navigate to the desktop.
 * `git clone "https://github.com/MarcLignarius/Parallax.Demo"` Clone this repository to your desktop.
-* `cd parallaxdemo` Open up the cloned repository.
+* `cd Parallax.Demo` Open up the cloned repository.
 * `open index.html` This will open the web page in your browser.
 
 Alternatively, visit https://marclignarius.github.io/Parallax.Demo/ to see the live version of the application. 
